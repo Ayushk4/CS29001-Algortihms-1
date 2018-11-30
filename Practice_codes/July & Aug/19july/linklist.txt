@@ -1,0 +1,6 @@
+print
+insert
+delete
+sort
+reverse
+create of size n

@@ -1,0 +1,25 @@
+#include <stdio.h>
+
+struct node {
+	int value;
+	struct node * next;
+};
+
+int main()
+{
+	int n;
+	printf("Write the number of data:");
+	scanf("%d", &n);
+
+	struct node *ptr = NULL ,*head = NULL, *Q;
+
+	for(int i = 0; i<n;i++)
+	{	
+		if(head==NULL)
+		{	;
+			head = ptr;
+			q = ptr;
+		}
+
+		
+
